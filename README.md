@@ -11,7 +11,7 @@ Dois projetos foram desenvolvidos neste bloco: [**Pixels Art**](https://github.c
 
 **Bloco**: JavaScript: DOM, Eventos e Web Storage
 
-## Demo
+## 🚀 Demo
 
 https://rafaelgeronimo.me/trybe-project-todo-list
 
