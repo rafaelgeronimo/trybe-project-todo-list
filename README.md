@@ -1,5 +1,5 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![trybe-project-todo-list](https://socialify.git.ci/rafaelgeronimo/trybe-project-todo-list/image?description=1&descriptionEditable=%5BTrybe%20Project%5D%20ToDo%20List&font=Bitter&language=1&owner=1&theme=Light)
+![trybe-project-todo-list](http://socialify.git.ci/rafaelgeronimo/trybe-project-todo-list/image?description=1&descriptionEditable=%5BTrybe%20Project%5D%20ToDo%20List&font=Bitter&language=1&owner=1&theme=Light)
 
 ## 📗 Sobre
 
